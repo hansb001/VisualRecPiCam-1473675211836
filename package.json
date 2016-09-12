@@ -18,7 +18,7 @@
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-freeboard":"0.x",
-		"node-red-cintrib-ui":"1.x"
+		"node-red-contrib-ui_j":"1.x"
     },
     "engines": {
         "node": "0.12.x"
